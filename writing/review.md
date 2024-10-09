@@ -74,64 +74,72 @@ TODO: Write a brief one paragraph response to this question.
 
 #### Explain one project task that you have undertaken and that illustrates the distinction between programming and software engineering
 
-NOTE: Please provide a one paragraph response to this question.
+TODO: Please provide a brief one paragraph response to this question.
 
 #### Describe one software engineering task that you could not complete before taking the course but can successfully complete now
 
-NOTE: Please provide a one paragraph response to this question.
+TODO: Please provide a brief one paragraph response to this question.
 
 #### Knowing what you do now about project development, what advice would you give to yourself at the start of the academic semester?
 
-NOTE: Please provide a one paragraph response to this question.
+TODO: Please provide a brief one paragraph response to this question.
 
 #### Project Contributions
 
-NOTE: You must provide a response to each of the following prompts by providing
-a list of the five most recent GitHub issues or pull requests that you created,
-bearing in mind that you may provide additional items at your discretion.
+TODO: You must provide a response to each of the following prompts by providing
+a list of the one or two most recent GitHub references, bearing in mind that
+you may provide additional items at your discretion. Please remember that you
+should only provide references to the GitHub repositories for `GatorGrade`,
+`GatorGrader`, and `ExecExam` that are inside of the `GatorEducator`
+organization. This means that you should not provide references to any GitHub
+repositories in different organizations that are forks of the main repositories.
 
 ##### Issue Tracker
 
-NOTE: Please provide a list of the five most recent GitHub issues that you created:
+TODO: Only provide references to the main GitHub repository for one of the three software tools
+
+TODO: Please provide a list of one or two of the most recent GitHub issues that you created:
 
 - https://github.com/AstuteSource/chasten/issues/61
 - https://github.com/AstuteSource/chasten/issues/61
 
-NOTE: Please provide a list of the five most recent GitHub issues for which you participated in the discussion:
+TODO: Please provide a list of one or two of the most recent GitHub issues for which you participated in the discussion:
 
 - https://github.com/AstuteSource/chasten/issues/61
 - https://github.com/AstuteSource/chasten/issues/61
 
-NOTE: Please provide a list of the five most recent GitHub issues for which you helped to resolve the problem:
+TODO: Please provide a list of one or two of the most recent GitHub issues for which you helped to resolve the problem:
 
 - https://github.com/AstuteSource/chasten/issues/61
 - https://github.com/AstuteSource/chasten/issues/61
 
 ##### Pull Requests
 
-NOTE: Please provide a list of the five most recent GitHub pull requests that you created:
+TODO: Only provide references to the main GitHub repository for one of the three software tools
+
+TODO: Please provide a list of the five most recent GitHub pull requests that you created:
 
 - https://github.com/AstuteSource/chasten/issues/61
 - https://github.com/AstuteSource/chasten/issues/61
 
-NOTE: Please provide a list of the five most recent GitHub pull requests for which you participated in the discussion:
+TODO: Please provide a list of the five most recent GitHub pull requests for which you participated in the discussion:
 
 - https://github.com/AstuteSource/chasten/issues/61
 - https://github.com/AstuteSource/chasten/issues/61
 
-NOTE: Please provide a list of the five most recent GitHub pull requests for which you made a major contribution:
+TODO: Please provide a list of the five most recent GitHub pull requests for which you made a major contribution:
 
 - https://github.com/AstuteSource/chasten/issues/61
 - https://github.com/AstuteSource/chasten/issues/61
 
-NOTE: Please provide a list of your five most recent GitHub pull requests that were merged to the project's main trunk:
+TODO: Please provide a list of your five most recent GitHub pull requests that were merged to the project's main trunk:
 
 - https://github.com/AstuteSource/chasten/issues/61
 - https://github.com/AstuteSource/chasten/issues/61
 
 ##### Project Commits
 
-NOTE: Please report the number of commits that you made to a pull request that
+TODO: Please report the number of commits that you made to a pull request that
 were ultimately merged to the main/master trunk branch of the project.
 Importantly, you should only report the count of commits that were merged into
 the main/master trunk branch of the project. This means that you cannot count
@@ -143,7 +151,7 @@ I make `X` commits to main/master trunk branch of the long-term software project
 
 ##### Project Leadership
 
-NOTE: Please summarize the ways in which you served as a leader of the project.
+TODO: Please summarize the ways in which you served as a leader of the project.
 Your response to this question should summarize your leadership role in at least
 three sentences. If you do not think that you served in a leadership role then
 you should summarize what role you played and then further explain why you did
@@ -153,18 +161,18 @@ not serve in a leadership role during the development of the projects.
 
 ### Feature Description
 
-NOTE: Using your own words, please provide a one to three sentence description
+TODO: Using your own words, please provide a one to three sentence description
 of a feature that you have added to the tool during any phase of the project.
 
-NOTE: Your response to this prompt should explain a feature that you have not
+TODO: Your response to this prompt should explain a feature that you have not
 previously described in any prior project reflections.
 
-NOTE: Bearing in mind the previous restriction, your response to this prompt
+TODO: Bearing in mind the previous restriction, your response to this prompt
 should, if possible, explain the most "complex" feature that you implemented.
 
 ### Command Execution and Output
 
-NOTE: Provide output in a fenced code block to illustrate how you would
+TODO: Provide output in a fenced code block to illustrate how you would
 demonstrate the aforementioned feature of the tool on your laptop. Your
 response should also provide the command that you executed in an additional
 fenced code block. Please label both code blocks so that their identify is clear.
@@ -186,7 +194,7 @@ fenced code block. Please label both code blocks so that their identify is clear
 
 ### Source Code Segment
 
-NOTE: Pick one example of a source code segment found in one of the course projects.
+TODO: Pick one example of a source code segment found in one of the course projects.
 Your response to this question should furnish an input to a Python function, the
 output of the Python function when provided with the input, and the source code
 of the Python function itself. Your response to this question should also walk
@@ -195,7 +203,7 @@ of all the technical software engineering details associated with this source co
 Your response to this question must contain a fenced code block with
 the Python source code that you found in the project's GitHub repository.
 
-NOTE: Please do not pick the same source code example that you selected during
+TODO: Please do not pick the same source code example that you selected during
 any prior reflection on your contributions to a long-term software project.
 
 ```python
@@ -212,7 +220,7 @@ except ValueError:
 
 ### Overall Project Assessment
 
-NOTE: Please provide an overall assessment of the status of one of the long-term
+TODO: Please provide an overall assessment of the status of one of the long-term
 projects. Your response to this prompt should address at least three questions
 such as: how reliable is the project? How complete is the project? How
 well-tested is the project? How maintainable is the project? How secure is the
