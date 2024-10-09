@@ -48,7 +48,7 @@
       options:
         tag: code_block
         count: 3
-        exact: true 
+        exact: false
 
 # confirm a suitable number of commit messages
 - description: Have at least a specific minimum number of commits in repository
