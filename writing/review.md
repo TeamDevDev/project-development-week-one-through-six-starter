@@ -41,8 +41,6 @@ TODO: You may check a checkbox if you completed the task for any of the three pr
 - [] Participated in the demonstration of a feature during a laboratory session
 - [] Participated in the class discussions about project development
 - [] Completed all of the documentation and reflection tasks in this document
-- [] Regularly participated in the class discussions about project development
-- [] Completed all of the documentation and reflection tasks in this document
 - [] Gave an overall assessment for the prior module of the course
 - [] Made suggestions for improvement of the next module in the course
 
@@ -190,3 +188,6 @@ projects. Your response to this prompt should address at least three questions
 such as: how reliable is the project? How complete is the project? How
 well-tested is the project? How maintainable is the project? How secure is the
 project? How likely is it that the project will be used for unethical purposes?
+
+TODO: Provide a suggestion for improving the ways in which our software
+engineering team specifies, builds, tests, and deploys software.
