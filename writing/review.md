@@ -100,52 +100,30 @@ TODO: Only provide references to the main GitHub repository for one of the three
 
 TODO: Please provide a list of one or two of the most recent GitHub issues that you created:
 
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
-
 TODO: Please provide a list of one or two of the most recent GitHub issues for which you participated in the discussion:
 
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
-
-TODO: Please provide a list of one or two of the most recent GitHub issues for which you helped to resolve the problem:
-
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
+TODO: Please provide a list of one or two of the most recent GitHub issues for which you helped to resolve the issue:
 
 ##### Pull Requests
 
 TODO: Only provide references to the main GitHub repository for one of the three software tools
 
-TODO: Please provide a list of the five most recent GitHub pull requests that you created:
+TODO: Please provide a list of one or two of the most recent GitHub pull requests that you created:
 
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
+TODO: Please provide a list of one or two of the most recent GitHub pull requests for which you participated in the discussion:
 
-TODO: Please provide a list of the five most recent GitHub pull requests for which you participated in the discussion:
+TODO: Please provide a list of one or two of the most recent GitHub pull requests for which you made a major contribution:
 
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
-
-TODO: Please provide a list of the five most recent GitHub pull requests for which you made a major contribution:
-
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
-
-TODO: Please provide a list of your five most recent GitHub pull requests that were merged to the project's main trunk:
-
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
+TODO: Please provide a list of one or two of the most recent GitHub pull requests that were merged to the project's main trunk:
 
 ##### Project Commits
 
 TODO: Please report the number of commits that you made to a pull request that
-were ultimately merged to the main/master trunk branch of the project.
-Importantly, you should only report the count of commits that were merged into
-the main/master trunk branch of the project. This means that you cannot count
+were ultimately merged to the main/master branch of the project. Importantly,
+you should only report the count of commits that were merged into the
+main/master trunk branch of the project. This means that you cannot count
 commits that were made to a branch for a pull request but not yet merged during
-the week range for this specific project development assessment. You should
-report the total number of commits over the course of the entire semester.
+the week range for this specific project development assessment.
 
 I make `X` commits to main/master trunk branch of the long-term software project.
 
@@ -161,11 +139,8 @@ not serve in a leadership role during the development of the projects.
 
 ### Feature Description
 
-TODO: Using your own words, please provide a one to three sentence description
+TODO: Using your own words, please provide a one-to-three sentence description
 of a feature that you have added to the tool during any phase of the project.
-
-TODO: Your response to this prompt should explain a feature that you have not
-previously described in any prior project reflections.
 
 TODO: Bearing in mind the previous restriction, your response to this prompt
 should, if possible, explain the most "complex" feature that you implemented.
@@ -179,18 +154,11 @@ fenced code block. Please label both code blocks so that their identify is clear
 
 - Fenced code block for the command that you executed
 
-```shell
-[I 2023-09-22 12:16:52.797 ServerApp] Connecting to kernel df29af09-6afb-44ff-821a-b55726930a7e.
-```
+TODO: Add the command that you executed to produce the following output
 
 - Fenced code block for the output of the command that you executed
 
-```text
-[I 2023-09-22 12:16:52.797 ServerApp] Connecting to kernel df29af09-6afb-44ff-821a-b55726930a7e.
-[I 2023-09-22 12:16:52.821 ServerApp] Connecting to kernel 63eff00d-292e-47e6-b37f-a87121e072ac.
-[I 2023-09-22 12:16:52.840 ServerApp] Connecting to kernel df29af09-6afb-44ff-821a-b55726930a7e.
-[I 2023-09-22 12:16:53.109 ServerApp] Connecting to kernel df29af09-6afb-44ff-821a-b55726930a7e.
-```
+TODO: Add the output of the command that you executed in the previous code block.
 
 ### Source Code Segment
 
@@ -202,9 +170,6 @@ through the lines of the source code in detail, demonstrating your understanding
 of all the technical software engineering details associated with this source code.
 Your response to this question must contain a fenced code block with
 the Python source code that you found in the project's GitHub repository.
-
-TODO: Please do not pick the same source code example that you selected during
-any prior reflection on your contributions to a long-term software project.
 
 ```python
 assert cgi_decode('+') == ' '
