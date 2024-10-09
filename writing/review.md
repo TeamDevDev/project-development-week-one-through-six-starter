@@ -169,18 +169,6 @@ of all the technical software engineering details associated with this source co
 Your response to this question must contain a fenced code block with
 the Python source code that you found in the project's GitHub repository.
 
-```python
-assert cgi_decode('+') == ' '
-assert cgi_decode('%20') == ' '
-assert cgi_decode('abc') == 'abc'
-
-try:
-    cgi_decode('%?a')
-    assert False
-except ValueError:
-    pass
-```
-
 ### Overall Project Assessment
 
 TODO: Please provide an overall assessment of the status of one of the long-term
