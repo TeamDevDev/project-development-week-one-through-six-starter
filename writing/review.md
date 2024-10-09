@@ -2,6 +2,32 @@
 
 <!---toc start-->
 
+* [Table of Contents](#table-of-contents)
+  * [Assessment Overview](#assessment-overview)
+  * [Project Development Assessment](#project-development-assessment)
+    * [Add Your Name Here](#add-your-name-here)
+    * [Summary Checklist](#summary-checklist)
+    * [Project Development Reflection](#project-development-reflection)
+      * [What is the purpose of the `gatorgrade` tool? How does it help a student in a computer science course?](#what-is-the-purpose-of-the-gatorgrade-tool-how-does-it-help-a-student-in-a-computer-science-course)
+      * [What is the purpose of the `gatorgrader` tool? How does it help a student in a computer science course?](#what-is-the-purpose-of-the-gatorgrader-tool-how-does-it-help-a-student-in-a-computer-science-course)
+      * [What is the purpose of the `execexam` tool? How does it help a student in a computer science course?](#what-is-the-purpose-of-the-execexam-tool-how-does-it-help-a-student-in-a-computer-science-course)
+      * [From the perspective of project development and the current status of the three aforementioned software tools, what is the greatest weakness of your software engineering team? Why? How would you advise the team to improve?](#from-the-perspective-of-project-development-and-the-current-status-of-the-three-aforementioned-software-tools-what-is-the-greatest-weakness-of-your-software-engineering-team-why-how-would-you-advise-the-team-to-improve)
+      * [From the perspective of project development and the current status of the three aforementioned software tools, what is your greatest weakness? Why? How do you plan to improve as this course continues?](#from-the-perspective-of-project-development-and-the-current-status-of-the-three-aforementioned-software-tools-what-is-your-greatest-weakness-why-how-do-you-plan-to-improve-as-this-course-continues)
+    * [Project Development Reflection](#project-development-reflection-1)
+      * [Explain one project task that you have undertaken and that illustrates the distinction between programming and software engineering](#explain-one-project-task-that-you-have-undertaken-and-that-illustrates-the-distinction-between-programming-and-software-engineering)
+      * [Describe one software engineering task that you could not complete before taking the course but can successfully complete now](#describe-one-software-engineering-task-that-you-could-not-complete-before-taking-the-course-but-can-successfully-complete-now)
+      * [Knowing what you do now about project development, what advice would you give to yourself at the start of the academic semester?](#knowing-what-you-do-now-about-project-development-what-advice-would-you-give-to-yourself-at-the-start-of-the-academic-semester)
+      * [Project Contributions](#project-contributions)
+        * [Issue Tracker](#issue-tracker)
+        * [Pull Requests](#pull-requests)
+        * [Project Commits](#project-commits)
+        * [Project Leadership](#project-leadership)
+  * [Project Implementation](#project-implementation)
+    * [Feature Description](#feature-description)
+    * [Command Execution and Output](#command-execution-and-output)
+    * [Source Code Segment](#source-code-segment)
+    * [Overall Project Assessment](#overall-project-assessment)
+
 <!---toc end-->
 
 ## Assessment Overview
